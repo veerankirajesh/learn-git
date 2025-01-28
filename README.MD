@@ -11,3 +11,7 @@ this is the frist commit from main branch
 * rebase is anther merge strategy
 * developing still
 * new developing is completed
+
+### squash
+
+* stated development
