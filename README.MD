@@ -7,6 +7,7 @@ this is the frist commit from main branch
 * time as development
 
 ### rebase
+
 * rebase is anther merge strategy
 * developing still
 * new developing is completed
