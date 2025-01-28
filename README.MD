@@ -15,3 +15,6 @@ this is the frist commit from main branch
 ### squash
 
 * stated development
+* adding more code 
+* still adding more code
+* now it is completed
